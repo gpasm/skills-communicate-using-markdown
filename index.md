@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Therefore do not worry about tomorrow!";
 ```
+- [ ] Wake up
+- [ ] Brush teeth
+- [ ] Wash face
+- [ ] Conquer
